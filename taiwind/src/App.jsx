@@ -1,10 +1,19 @@
 import React from 'react'
 import Navbar from './component/Navbar'
+import Hero from './component/Hero'
+import Destination from './component/Destination'
 
-const hellon = () => {
+
+const App = () => {
   return (
-    <Navbar/>
+    <>
+     <Navbar/>
+     <Hero/>
+      <Destination/>
+     </>
+
+    
   )
 }
 
-export default hellon
+export default App
