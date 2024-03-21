@@ -18,7 +18,7 @@ const Destination = () => {
                 <img className=' w-full h-full object-cover' src={overwater} alt="/" />
 
             </div>
-    </div>
+    </div> 
   )
 }
 
