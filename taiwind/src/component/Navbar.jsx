@@ -24,7 +24,7 @@ const Navbar = () => {
       <div>
         <h1>Beaches</h1>
       </div>
-      <ul className="hidden md:flex">
+      <ul className="hidden md:flex cursor-pointer">
         <li>Home</li>
         <li>Destination</li>
         <li>View</li>
